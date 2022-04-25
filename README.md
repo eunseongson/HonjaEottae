@@ -1,6 +1,6 @@
-<div align="center">
+
 ![혼자어때로고](./assets/혼자어때_로고.jpg)
-</div>
+
 
 ## **🔴 서비스 소개**
 
